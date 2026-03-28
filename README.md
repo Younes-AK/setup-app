@@ -156,7 +156,7 @@ The script checks for required tools before doing anything and exits with a clea
 
 ```bash
 # 1. Download the script
-curl -O https://github.com/Younes-AK/setup-app/blob/master/setup-app.sh
+curl -O https://github.com/Younes-AK/setup-app/blob/master/setup-app/setup_app.sh
 
 # 2. Make it executable
 chmod +x setup_app.sh
