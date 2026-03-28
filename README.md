@@ -156,7 +156,7 @@ The script checks for required tools before doing anything and exits with a clea
 
 ```bash
 # 1. Download the script
-curl -O https://raw.githubusercontent.com/your-username/setup-app/main/setup_app.sh
+curl -O https://raw.githubusercontent.com/Younes-Ak/setup-app/main/setup_app.sh
 
 # 2. Make it executable
 chmod +x setup_app.sh
@@ -168,7 +168,7 @@ chmod +x setup_app.sh
 Or clone the repo:
 
 ```bash
-git clone https://github.com/your-username/setup-app.git
+git clone https://github.com/Younes-Ak/setup-app.git
 cd setup-app
 chmod +x setup_app.sh
 ./setup_app.sh
